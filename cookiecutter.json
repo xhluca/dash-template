@@ -1,0 +1,19 @@
+{
+    "app_name": "My New Dash App",
+    "app_shortname": "my-dash-app",
+    "github_username": "",
+    "license": [
+        "MIT License",
+        "BSD License",
+        "ISC License",
+        "Apache Software License 2.0",
+        "GNU General Public License v3",
+        "Not open source"
+    ],
+    "python_version": [
+        "3.6",
+        "3.7",
+        "3.8",
+        "3.9"
+    ]
+}
