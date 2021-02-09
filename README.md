@@ -1,6 +1,6 @@
-# Dash Bootstrap Template
+# Dash Template
 
-Simple `cookiecutter` template to create a new `dash` app that uses `dash-bootstrap-components`.
+Simple `cookiecutter` template to create a new `dash` app.
 
 ## Instructions
 
@@ -11,5 +11,5 @@ pip install cookiecutter
 
 Get this template with cookiecutter:
 ```bash
-cookiecutter gh:xhlulu/dash-bootstrap-template
+cookiecutter gh:xhlulu/dash-template
 ```
