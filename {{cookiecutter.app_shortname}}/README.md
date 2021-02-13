@@ -5,8 +5,8 @@
 To get started, first clone this repo:
 
 ```
-git clone https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.app_shortname}}.git
-cd {{cookiecutter.app_shortname}}
+git clone https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.repository}}.git
+cd {{cookiecutter.repository}}
 ```
 ### Usual setup
 
@@ -41,8 +41,8 @@ python3 app.py
 
 #### Conda
 ```
-conda create -n {{cookiecutter.app_shortname}} python={{cookiecutter.python_version}}
-conda activate {{cookiecutter.app_shortname}}
+conda create -n {{cookiecutter.repository}} python={{cookiecutter.python_version}}
+conda activate {{cookiecutter.repository}}
 pip3 install -r requirements.txt
 python3 app.py
 ```

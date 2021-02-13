@@ -1,6 +1,6 @@
 {
     "app_name": "My New Dash App",
-    "app_shortname": "my-dash-app",
+    "repository": "my-dash-app",
     "author_name": "",
     "github_username": "",
     "license": [
