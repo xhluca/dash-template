@@ -1,8 +1,8 @@
 {
     "app_name": "My New Dash App",
     "repo_name": "my-dash-app",
-    "full_name": "",
-    "github_username": "",
+    "full_name": null,
+    "github_username": null,
     "license": [
         "MIT License",
         "BSD-3 License",
