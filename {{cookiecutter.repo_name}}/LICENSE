@@ -1,9 +1,9 @@
 {%- if cookiecutter.license == "MIT License" -%}
-  {%- include "templates/license_mit.txt" -%}
+  {%- include "cookiecutter_templates/license_mit.txt" -%}
 {%- elif cookiecutter.license == "BSD-3 License" -%}
-  {%- include "templates/license_bsd3.txt" -%}
+  {%- include "cookiecutter_templates/license_bsd3.txt" -%}
 {%- elif cookiecutter.license == "Apache Software License 2.0" -%}
-  {%- include "templates/license_apache2.txt" -%}
+  {%- include "cookiecutter_templates/license_apache2.txt" -%}
 {%- elif cookiecutter.license == "GNU General Public License v3" -%}
-  {%- include "templates/license_gpl3.txt" -%}
+  {%- include "cookiecutter_templates/license_gpl3.txt" -%}
 {% endif %}
