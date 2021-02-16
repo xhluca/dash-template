@@ -2,3 +2,6 @@ dash
 plotly
 pandas
 gunicorn
+{%- if cookiecutter.use_bootstrap == 'y' -%}
+dash-bootstrap-components
+{%- endif -%}
