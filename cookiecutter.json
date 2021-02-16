@@ -17,5 +17,5 @@
         "3.8",
         "3.9"
     ],
-    "use_bootstrap": ["No", "Yes"]
+    "format": ["regular", "bootstrap"]
 }
