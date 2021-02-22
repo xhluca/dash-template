@@ -5,5 +5,5 @@
 {%- elif cookiecutter.python_version == '3.8' -%}
     python-3.8.2
 {%- elif cookiecutter.python_version == '3.9' -%}
-    python-3.9
+    python-3.9.0
 {%- endif -%}
